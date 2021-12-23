@@ -38,7 +38,7 @@ CREATE TABLE `admin_login` (
 --
 
 INSERT INTO `admin_login` (`userid`, `password`) VALUES
-('admin', '123');
+('Gnabi', '3406041');
 
 -- --------------------------------------------------------
 
