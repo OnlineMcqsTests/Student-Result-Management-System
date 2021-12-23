@@ -75,7 +75,7 @@
     </div>
 
     <div class="footer">
-        <!-- <span>Designed & Coded By Jibin Thomas</span> -->
+        <!-- <span>Designed & Coded By Ghulam Nabi Jakhro</span> -->
     </div>
 </body>
 </html>
